@@ -1,2 +1,2 @@
 # invie-github
-Tus mejores guitarras invisiebles by Platzi
+Git and GitHub courses by @Platzi
